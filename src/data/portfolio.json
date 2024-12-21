@@ -1,0 +1,29 @@
+{
+    "project": [
+        {
+        "id": 1,
+        "name": "Freshly",
+        "description": "Smart Vegetable Store Management System Freshly is an innovative and user-friendly vegetable store management system designed to streamline operations for store managers and employees. This system simplifies inventory management, sales tracking, and billing processes, making it an ideal solution for small to medium-sized vegetable stores.",
+        "image": "/project1.png",
+        "url": "https://freshly-eight.vercel.app/"
+        },
+        {
+        "id": 2,
+        "name": "Tranzy",
+        "description": "Modern College Bus Management System Tranzy is a smart, efficient, and user-friendly college bus management system designed to simplify the process of managing bus routes, schedules, and passes for students and administrators. With its seamless features and intuitive interface, Tranzy ensures hassle-free transportation management for educational institutions.",
+        "image": "/project2.png",
+        "url": "https://bus-ecru.vercel.app/"
+        },
+        {
+        "id": 3,
+        "name": "Wonderlust",
+        "description": "Your Gateway to Memorable Adventures Wonderlust is a modern travel and booking platform designed to connect travelers with extraordinary experiences. Whether you're planning a weekend getaway or an international adventure, Wonderlust simplifies the process of discovering, booking, and managing your travel plans, ensuring a seamless and enjoyable journey.",
+
+
+        "image": "/project3.png",
+        "url": "https://wonderlust-react.vercel.app/"
+        }
+        
+        
+    ]
+}
