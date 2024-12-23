@@ -34,10 +34,10 @@ const AboutMe = () => {
           {/* About Details */}
           <div className="lg:w-1/2">
             <h2 className="text-3xl font-semibold text-white">
-              Hi, I'm Pardeep!
+              Hi, I&apos;m Pardeep!
             </h2>
             <p className="mt-4 text-neutral-400 leading-relaxed">
-              I'm a passionate Software Developer and Web Developer, eager to
+              I&apos;m a passionate Software Developer and Web Developer, eager to
               explore and create modern, scalable web solutions. With a knack
               for understanding how things work, I thrive on solving complex
               problems and delivering intuitive user experiences.
@@ -82,7 +82,7 @@ const AboutMe = () => {
             <div className="mt-10">
               <h3 className="text-2xl font-semibold text-white">Get in Touch</h3>
               <p className="mt-4 text-neutral-400">
-                I'd love to hear from you! Whether it's about a project,
+                I&apos;d love to hear from you! Whether it&apos;s about a project,
                 collaboration, or just to say hi, feel free to reach out.
               </p>
               <div className="mt-4">
