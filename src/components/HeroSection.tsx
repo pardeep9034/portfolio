@@ -26,8 +26,8 @@ const HeroSection = () => {
         </p>
         <div className="text-neutral-300 mt-6">
           <a
-            href="#"
-            // download="Pardeep_CV.pdf"
+            href="/Pardeep_resume.pdf"
+            
             target="_blank"
             rel="noopener noreferrer"
           >
